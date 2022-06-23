@@ -1,2 +1,2 @@
 # restaurant-landing-page
-restaurant static landing page using nuxt
+🍕 🍔 restaurant static landing page using nuxt 🥘
