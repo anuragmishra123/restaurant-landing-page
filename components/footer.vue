@@ -8,9 +8,9 @@
         <div class="col-12 p-3 text-center">
          <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br>It has been the industry's standard dummy text ever since. </h5>
         </div>
-        <div class="col-12 p-2 text-center">
+        <div class="col-12 p-2 text-center d-flex justify-content-center">
           <div class="row">
-            <div class="col-12">
+            <div class="col-12 ">
                 <div class="input-group p-5">
                     <input class="form-control py-3 rounded-pill mr-1 pr-5" type="E-mail" value="E-mail" >
                     <span class="input-group-append">
