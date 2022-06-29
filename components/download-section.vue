@@ -37,10 +37,15 @@ export default {
 </script>
 <style scoped>
 .download-section{
- background-color: #fee7d3;
+ background-color: #ffedde;
  padding-top: 120px;
  padding-bottom: 120px;
  margin-bottom: 0%;
+ redcolor:#fe043c;
+ headingcolor:#2e266f;
+ textcolor:#707070;
+ pricecolor:#f98169;
+ color:#212121
 }
 .border-radius-20{
  border-radius: 20px;
